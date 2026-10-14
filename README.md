@@ -1,0 +1,1 @@
+The goal of this project is to learn the notion of CI/CD. It contains a simple GitHub Actions workflow that deploys a static website to GitHub Pages.
